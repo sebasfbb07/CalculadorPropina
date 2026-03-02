@@ -27,6 +27,7 @@ Además, incluye validación de datos usando `try/except` para evitar errores si
 ---
 
 ## 📂 Estructura del Proyecto
+```
 CalculadorPropina/
 │
 ├── src/
@@ -39,6 +40,7 @@ CalculadorPropina/
 │ └── io.py
 │
 └── README.md
+```
 ### 🔹 main.py
 Punto de entrada del programa.  
 Coordina la ejecución llamando a las funciones necesarias.
